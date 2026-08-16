@@ -30,4 +30,4 @@ Read this index before any project-scoped work. Then open only the documents rel
 
 ## Source locations
 
-Application source lives under `../src/`; tests under `../tests/`; local tooling under `../scripts/`; public static assets under `../public/`.
+Application source lives under `../src/`; tests under `../tests/`; local tooling under `../scripts/`; public static assets under `../public/`; optional extension guidance is routed by `../docs/INDEX.md`.
