@@ -22,6 +22,12 @@ Open the printed local URL. The server is a development convenience only; the ap
 
 The bundled workspace is clearly marked fictional (`meta.sampleData: true`) and can be replaced with a JSON backup or a blank workspace.
 
+## Optional Google sign-in extension
+
+The included application does **not** implement Google sign-in. It remains account-free, keeps data in browser `localStorage`, and makes no external requests.
+
+For teams that want to build an authenticated variant, [the optional Google OAuth guide](docs/optional-google-oauth.md) explains the required server boundary, Google Auth Platform configuration, non-secret configuration names, access checks, and validation matrix. The guide contains no credentials or personal Google account information. Adding login alone does not synchronize or protect workspace data; that requires an authorized server-side data layer.
+
 ## Licence
 
 Copyright © 2026 DaisYY Leung. This project is available under the [MIT License](LICENSE).
