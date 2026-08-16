@@ -1,6 +1,6 @@
-# Signal Atlas public template
+# Global-Work-Atlas Public Template
 
-Signal Atlas is a static, local-first project dashboard for people who want a clear view of work without an account or network service. It is a reusable template with five workflows:
+Global-Work-Atlas is a static, local-first project dashboard for people who want a clear view of work without an account or network service. It is a reusable template with five workflows:
 
 - **Overview** — derived active, complete, at-risk, waiting, region, status, work-type, priority, and due-soon summaries.
 - **Analytics** — 30-day, 90-day, year, all-time, or custom inclusive ranges with text-backed daily charts and UTF-8 CSV export.
